@@ -1,0 +1,64 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+.title{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 60px;
+    padding-top: 5px;
+    margin: 0;
+}
+
+.button{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    cursor: pointer;
+}
+.button:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.symbol{
+    margin: 50px;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+.win{
+    justify-content: center;
+    display: flex;
+    font-size:30px;
+    text-align: center;
+    
+}
+.name{
+    display: inline-block;
+    margin: 10px;
+    padding: 0%;
+    font-weight: bold;
+}
+.message{
+    text-align: center;
+}
+
+#text{
+    display: inline-block;
+    color: whitesmoke;
+    background-color: black;
+    font-size: 25px;
+    margin-bottom: 10;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#round{
+    display: inline-block;
+    font-size:30px;
+    margin: 10px;
+    padding: 0%;
+    font-weight: bold;
+}
