@@ -38,16 +38,6 @@ RockPaperScissor/
 │── Screenshot 2026-05-26 142720.png
 ```
 
----
-
-## 📸 Preview
-
-### Game UI
-
-![Game Screenshot](./Screenshot%202026-05-26%20142720.png)
-
----
-
 ## ▶️ How to Run
 
 ### 1️⃣ Clone Repository
@@ -77,28 +67,7 @@ Open `index.html` in your browser.
 
 ---
 
-## 🧠 JavaScript Functions
 
-### `compChoose()`
-
-- Generates random computer choice
-
-### `winner(compChoice, youChoice)`
-
-- Checks winner of the round
-- Updates scores
-- Displays result message
-
-### `reset(compWin, youWin)`
-
-- Checks if any player reached 5 points
-- Declares final winner
-
-### `setZero()`
-
-- Resets scores and rounds
-
----
 
 ## 👨‍💻 Author
 
